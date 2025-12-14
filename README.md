@@ -40,7 +40,7 @@
 
 ## 🚀 Demo
 
-Visit the live site: [**View Portfolio**](https://mogesh-developer.github.io/Porfolio-V2/)
+Visit the live site: [**View Portfolio**](https://kaavalar.dev/)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mogesh-developer/Porfolio-V2/main/assets/img/preview.png" alt="Portfolio Preview" width="800px" />
